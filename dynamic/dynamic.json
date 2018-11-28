@@ -1,0 +1,34 @@
+{
+  "career":{
+    "info": "I AM ABHILASHA STUDYING BTECH 3RD YEAR "
+  },
+  "education":[
+    {
+      "sno":"1",
+      "institutename":"vignan nirula institute of womens and science",
+      "percentage":"7.4",
+      "yearofpassing":"2020"
+    },
+    {
+      "sno":"2",
+      "institutename":"sri chiatanya college",
+      "percentage":"84%",
+      "yearofpassing":"2016"
+
+    },
+    {
+      "sno":"3",
+      "institutename":"bhashyam high school",
+      "percentage":"10.0",
+      "yearofpassing":"2014"
+    }
+
+  ],
+  "skills":[
+    {
+      "title":"programming Languages",
+      "content":"BigData,JAVA,C++"
+    }
+  ]
+
+}
